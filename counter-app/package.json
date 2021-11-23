@@ -12,6 +12,9 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  
+  "author": "Ankita Zaveri (https://github.com/Marcellia)",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -26,6 +29,7 @@
       "react-app/jest"
     ]
   },
+  
   "browserslist": {
     "production": [
       ">0.2%",
